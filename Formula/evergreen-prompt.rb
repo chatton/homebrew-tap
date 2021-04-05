@@ -3,7 +3,7 @@
 
 class EvergreenPrompt < Formula
   desc "Interactive CLI for Evergreen"
-  homepage "https://goreleaser.com"
+  homepage "https://github.com/chatton/evergreen-prompt"
   version "1.0.0"
   license "MIT"
   url "https://github.com/chatton/evergreen-prompt/releases/download/v1.0.0/evergreen-prompt-1.0.0.tar.gz"

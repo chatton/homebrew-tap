@@ -4,10 +4,10 @@
 class EvergreenPrompt < Formula
   desc "Interactive CLI for Evergreen"
   homepage "https://github.com/chatton/evergreen-prompt"
-  version "1.1.0"
+  version "1.1.1"
   license "MIT"
-  url "https://github.com/chatton/evergreen-prompt/releases/download/v1.1.0/evergreen-prompt-1.1.0.tar.gz"
-  sha256 "a3da967f7d2415d92c0bb60c17d7bab1395d4e193819c594b06037387e554650"
+  url "https://github.com/chatton/evergreen-prompt/releases/download/v1.1.1/evergreen-prompt-1.1.1.tar.gz"
+  sha256 "7e611eb47be15b4342f9b5969dcdc3bbdae07e668cc55e5178e0dc29408bc5c9"
   bottle :unneeded
 
 
@@ -16,3 +16,4 @@ class EvergreenPrompt < Formula
   end
 
 end
+
